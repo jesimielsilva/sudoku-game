@@ -53,7 +53,7 @@ java -cp bin Main
 ---
 
 ## 📸 Captura de Tela
-*(Adicione aqui uma imagem do jogo em execução)*
+<img src="img/tela do jogo.png" alt="Tela do Jogo">
 
 ---
 
